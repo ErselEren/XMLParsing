@@ -1,0 +1,15 @@
+C:\Users\ersel\source\repos\XMLParsing\bin\Debug\net7.0\XMLParsing.exe
+C:\Users\ersel\source\repos\XMLParsing\bin\Debug\net7.0\XMLParsing.deps.json
+C:\Users\ersel\source\repos\XMLParsing\bin\Debug\net7.0\XMLParsing.runtimeconfig.json
+C:\Users\ersel\source\repos\XMLParsing\bin\Debug\net7.0\XMLParsing.dll
+C:\Users\ersel\source\repos\XMLParsing\bin\Debug\net7.0\XMLParsing.pdb
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\XMLParsing.csproj.AssemblyReference.cache
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\XMLParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\XMLParsing.AssemblyInfoInputs.cache
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\XMLParsing.AssemblyInfo.cs
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\XMLParsing.csproj.CoreCompileInputs.cache
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\XMLParsing.dll
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\refint\XMLParsing.dll
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\XMLParsing.pdb
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\XMLParsing.genruntimeconfig.cache
+C:\Users\ersel\source\repos\XMLParsing\obj\Debug\net7.0\ref\XMLParsing.dll
